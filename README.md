@@ -1,7 +1,7 @@
 ## nucat
 Nucat is an alternative to the Unix command `cat` written using Node.js.
 
-By default, the file contents are displayed with line numbers when `nucat` is run on a file without any arguments.
+By default, the contents of a file are displayed with line numbers when `nucat` is run on a file without any arguments.
 
 ### Install
 Before installation, kindly make sure you have the latest version of Node.js installed on your system. `nucat` was built on top of version 21.6.2.
