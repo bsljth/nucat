@@ -1,5 +1,5 @@
 ## nucat
-Nucat is an alternative to the Unix command `cat` written in Node.js.
+Nucat is an alternative to the Unix command `cat` written using Node.js.
 
 By default, the file contents are displayed with line numbers when `nucat` is run on a file without any arguments.
 
